@@ -96,7 +96,7 @@ main {
                 }
             }
             .buttons {
-                input {
+                button {
                     padding: 10px 25px;
                     font-size: 16px;
                     background-color: #353639;
@@ -152,7 +152,7 @@ main {
                 border-radius: 3px;
             }
         }
-        input[type=submit] {
+        .button {
             align-self: flex-end;
             padding: 10px 25px;
             font-size: 16px;
